@@ -57,6 +57,9 @@
   <img src="./assets/design-lampa.ru_gif.gif" alt="lampa-design" width="423px">
 </a>
 
+<p align="center">
+<img src="./assets/design-lampa.ru_gif.gif" width="100%"></p>
+
 <br />
 <br />
 <div align="center">
