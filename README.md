@@ -2,10 +2,11 @@
 
 ![Header](https://github.com/Sweetleo30/sweetleo30/blob/main/assets/banner_dark.svg)
 
-<!-- <p align="center">
+<p align="center">
 	<img width="100%" src="./assets/banner_dark.svg">
-</p> -->
+</p>
 
+![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1.2)
 
 <b>GitHub статистика</b>
 
@@ -29,3 +30,29 @@
     	</td>
 	</tr>
 </table>
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1.2)
+
+<b>Мои проекты</b>
+
+<table background="./assets/banner_dark.svg">
+  <tr>
+    <td width="396px">
+      <a href="https://github.com/Sweetleo30/lampa-design">
+        <img width="100%"src="https://github-readme-stats.vercel.app/api/pin/?username=Sweetleo30&repo=lampa-design&title_color=b7ad9c&text_color=d6d2cf&icon_color=b99d98&bg_color=252525&hide_border=true&locale=en" />
+      </a>
+      <a href="https://github.com/Sweetleo30/lampa-design"><br />
+        <img src="./assets/design-lampa.ru_gif.gif" alt="lampa-design" width="100%">
+      </a>
+    </td>
+    <!-- <td>
+    	<a href="https://github.com/Sweetleo30/lampa-design">
+        <img width="100%"src="https://github-readme-stats.vercel.app/api/pin/?username=Sweetleo30&repo=lampa-design&title_color=b7ad9c&text_color=d6d2cf&icon_color=b99d98&bg_color=252525&hide_border=true&locale=en" />
+      </a>
+      <a href="https://github.com/Sweetleo30/lampa-design"><br />
+        <img src="./assets/design-lampa.ru_gif.gif" alt="lampa-design" width="100%">
+      </a>
+    </td> -->
+  </tr>
+</table>
+
