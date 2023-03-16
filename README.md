@@ -1,10 +1,10 @@
-### Привет, меня зовут Диана!
+## Привет, меня зовут Диана!
 
 ![Header](https://github.com/Sweetleo30/sweetleo30/blob/main/assets/banner_dark.svg)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
 
-<b>GitHub статистика</b>
+### GitHub статистика
 
 <table>
   <tr>
@@ -29,7 +29,7 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
 
-<b>Мои проекты</b>
+### Мои проекты
 
 <table background="./assets/banner_dark.svg">
   <tr>
@@ -41,33 +41,16 @@
         <img src="./assets/design-lampa.ru_gif.gif" alt="lampa-design" width="100%">
       </a>  
     </td>
-    <!-- <td>
-    	<a href="https://github.com/Sweetleo30/lampa-design">
+    <!-- <td width="396px">
+      <a href="https://github.com/Sweetleo30/lampa-design">
         <img width="100%"src="https://github-readme-stats.vercel.app/api/pin/?username=Sweetleo30&repo=lampa-design&title_color=b7ad9c&text_color=d6d2cf&icon_color=b99d98&bg_color=0e0d0d&hide_border=true&locale=en" />
       </a>
-      <a href="https://github.com/Sweetleo30/lampa-design"><br />
+      <a href="https://github.com/Sweetleo30/lampa-design">
         <img src="./assets/design-lampa.ru_gif.gif" alt="lampa-design" width="100%">
-      </a>
+      </a>  
     </td> -->
   </tr>
 </table>
-
-<a align="center" href="https://github.com/Sweetleo30/lampa-design">
-  <div align="center">
-      <img src="./assets/design-lampa.ru_gif.gif" width="423px" alt="lampa-design">
-  </div>
-</a>
-
-<p align="center">
-<img src="./assets/design-lampa.ru_gif.gif" width="100%"></p>
-
-<div align="center">
-<img src="./assets/design-lampa.ru_gif.gif" width="100%"></div>
-
-<span align="center">
-<img src="./assets/design-lampa.ru_gif.gif" width="100%"></span>
-
-<br />
 <br />
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sweetleo30&&style=for-the-badge&color=0e0d0d"/>
