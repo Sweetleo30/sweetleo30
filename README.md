@@ -34,11 +34,11 @@
 <table background="./assets/banner_dark.svg">
   <tr>
     <td width="396px">
+    <a href="https://github.com/Sweetleo30/lampa-design"><br />
+        <img src="./assets/design-lampa.ru_gif.gif" alt="lampa-design" width="100%">
+      </a>
       <a href="https://github.com/Sweetleo30/lampa-design">
         <img width="100%"src="https://github-readme-stats.vercel.app/api/pin/?username=Sweetleo30&repo=lampa-design&title_color=b7ad9c&text_color=d6d2cf&icon_color=b99d98&bg_color=0e0d0d&hide_border=true&locale=en" />
-      </a>
-      <a href="https://github.com/Sweetleo30/lampa-design"><br />
-        <img src="./assets/design-lampa.ru_gif.gif" alt="lampa-design" width="100%">
       </a>
     </td>
     <!-- <td>
