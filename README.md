@@ -4,12 +4,18 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
 
-### GitHub статистика
+  ## Технологии
+
+  [![Skills](https://skillicons.dev/icons?i=react,js,html,css,scss,nodejs,webpack,gulp,mysql,py,git,figma&theme=dark)](https://skillicons.dev)
+
+  ![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
+  
+  ## GitHub статистика
 
 <table>
   <tr>
     <td>
-      <a href="http://www.github.com/Sweetleo30"><img src="https://github-readme-stats.vercel.app/api?username=Sweetleo30&show_icons=true&count_private=true&title_color=b7ad9c&text_color=d6d2cf&icon_color=b7ad9c&bg_color=0e0d0d&hide_border=true" alt="Sweetleo30's GitHub stats" /></a>
+      <a href="http://www.github.com/Sweetleo30"><img src="https://github-readme-stats.vercel.app/api?username=Sweetleo30&show_icons=true&count_private=true&title_color=b7ad9c&text_color=d6d2cf&icon_color=b99d98&bg_color=0e0d0d&hide_border=true" alt="Sweetleo30's GitHub stats" /></a>
     </td>
     <td>
     	<a href="http://www.github.com/Sweetleo30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetleo30&stroke=d0cac3&background=0e0d0d&ring=b7ad9c&fire=b99d98&currStreakNum=b7ad9c&currStreakLabel=d6d2cf&sideNums=b7ad9c&sideLabels=d6d2cf&dates=d6d2cf&hide_border=true" /></a>
@@ -29,7 +35,7 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
 
-### Мои проекты
+## Мои проекты
 
 <table background="./assets/banner_dark.svg">
   <tr>
@@ -55,6 +61,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sweetleo30&&style=for-the-badge&color=0e0d0d"/>
 </div>
-<br />
+
 
 
