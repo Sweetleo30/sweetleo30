@@ -4,13 +4,18 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
 
-  ## Технологии
+### Cоциальные сети
+[![Telegram](https://img.shields.io/badge/-Telegram-0e0d0d?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dianarychkova)
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
+
+### Технологии
 
   [![Skills](https://skillicons.dev/icons?i=react,js,html,css,scss,nodejs,webpack,gulp,mysql,py,git,figma&theme=dark)](https://skillicons.dev)
 
   ![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
   
-  ## GitHub статистика
+### GitHub статистика 
 
 <table>
   <tr>
@@ -35,7 +40,7 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
 
-## Мои проекты
+### Мои проекты
 
 <table background="./assets/banner_dark.svg">
   <tr>
@@ -57,6 +62,9 @@
     </td> -->
   </tr>
 </table>
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=b7ad9c&height=1)
+
 <br />
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sweetleo30&&style=for-the-badge&color=0e0d0d"/>
