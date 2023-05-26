@@ -30,7 +30,7 @@
 <table>
 	<tr>
   		<td>
-    		<a href="http://www.github.com/Sweetleo30"><img width="690px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Sweetleo30&bg_color=0e0d0d&color=d6d2cf&line=b7ad9c&point=b99d98&area_color=0e0d0d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+    		<a href="http://www.github.com/Sweetleo30"><img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=Sweetleo30&bg_color=0e0d0d&color=d6d2cf&line=b7ad9c&point=b99d98&area_color=0e0d0d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
     	</td>
 		<td>
     		<a href="https://github.com/Sweetleo30"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetleo30&langs_count=10&title_color=b7ad9c&text_color=d6d2cf&icon_color=b7ad9c&bg_color=0e0d0d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
